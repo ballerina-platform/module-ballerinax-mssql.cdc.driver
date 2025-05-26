@@ -1,0 +1,8 @@
+[package]
+org = "ballerinax"
+name = "mssql.cdc.driver"
+version = "@toml.version@"
+authors = ["Ballerina"]
+repository = "https://github.com/ballerina-platform/module-ballerinax-mssql.cdc.driver"
+license = ["Apache-2.0"]
+distribution = "2201.12.0"
