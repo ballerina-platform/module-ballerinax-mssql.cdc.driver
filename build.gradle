@@ -78,6 +78,7 @@ subprojects {
 }
 
 tasks.register('build') {
+    dependsOn(':mssql.cdc.driver-native:build')
     dependsOn(':mssql.cdc.driver-ballerina:build')
 }
 

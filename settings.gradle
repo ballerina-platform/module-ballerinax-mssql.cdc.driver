@@ -33,8 +33,10 @@ plugins {
 rootProject.name = 'module-ballerinax-mssql.cdc.driver'
 
 include ':mssql.cdc.driver-ballerina'
+include ':mssql.cdc.driver-native'
 
 project(':mssql.cdc.driver-ballerina').projectDir = file("ballerina")
+project(':mssql.cdc.driver-native').projectDir = file("native")
 
 gradleEnterprise {
     buildScan {
