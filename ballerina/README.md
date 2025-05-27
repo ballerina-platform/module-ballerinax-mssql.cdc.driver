@@ -3,6 +3,13 @@
 This library provides the necessary Debezium drivers required for the CDC (Change Data Capture) connector in Ballerina.
 It enables listening to changes in MSSQL databases seamlessly within Ballerina projects.
 
+## Compatibility
+
+| |     Version     |
+|:---|:---------------:|
+|Ballerina Language |  **2201.12.0**   |
+|Debezium MSSQL Driver | **3.0.8.Final** |
+
 ## Usage
 
 To include the `mssql.cdc.driver` dependency in your project, simply import the module as shown below:
