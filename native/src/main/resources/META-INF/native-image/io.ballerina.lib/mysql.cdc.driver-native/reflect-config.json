@@ -1,0 +1,54 @@
+[
+{
+  "name":"io.debezium.connector.sqlserver.SqlServerConnector",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"io.debezium.connector.sqlserver.SqlServerConnectorTask",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"io.debezium.connector.sqlserver.SqlServerSourceInfoStructMaker",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerSnapshotPartitionMetrics",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerSnapshotPartitionMetricsMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerSnapshotTaskMetrics",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerStreamingPartitionMetrics",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerStreamingPartitionMetricsMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerStreamingTaskMetrics",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerStreamingTaskMetricsMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.metrics.SqlServerTaskMetricsMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.snapshot.lock.ExclusiveSnapshotLock",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"io.debezium.connector.sqlserver.snapshot.query.SelectAllSnapshotQuery",
+  "queryAllPublicMethods":true
+}
+]
