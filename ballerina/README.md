@@ -11,7 +11,6 @@ The MSSQL Change Data Capture (CDC) driver enables capturing and tracking data c
 - Secure communication and efficient data handling
 - GraalVM compatible for native image builds
 
-
 This library provides the necessary Debezium drivers required for the CDC (Change Data Capture) connector in Ballerina.
 It enables listening to changes in MSSQL databases seamlessly within Ballerina projects.
 
