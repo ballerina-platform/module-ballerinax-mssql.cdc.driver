@@ -3,6 +3,7 @@ org = "ballerinax"
 name = "mssql.cdc.driver"
 version = "@toml.version@"
 authors = ["Ballerina"]
+keywords = ["CDC", "Debezium", "Microsoft SQL Server", "MSSQL", "Area/Database", "Type/Driver", "Vendor/Red Hat"]
 repository = "https://github.com/ballerina-platform/module-ballerinax-mssql.cdc.driver"
 icon = "icon.png"
 license = ["Apache-2.0"]
