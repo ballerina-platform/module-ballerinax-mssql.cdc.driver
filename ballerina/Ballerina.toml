@@ -1,8 +1,9 @@
 [package]
 org = "ballerinax"
 name = "mssql.cdc.driver"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Ballerina"]
+keywords = ["CDC", "Debezium", "Microsoft SQL Server", "MSSQL", "Area/Database", "Type/Driver", "Vendor/Red Hat"]
 repository = "https://github.com/ballerina-platform/module-ballerinax-mssql.cdc.driver"
 icon = "icon.png"
 license = ["Apache-2.0"]
@@ -14,8 +15,8 @@ graalvmCompatible = true
 [[platform.java21.dependency]]
 groupId = "io.ballerina.lib"
 artifactId = "mssql.cdc.driver-native"
-version = "1.0.1"
-path = "../native/build/libs/mssql.cdc.driver-native-1.0.1.jar"
+version = "1.0.2"
+path = "../native/build/libs/mssql.cdc.driver-native-1.0.2.jar"
 
 [[platform.java21.dependency]]
 groupId = "io.debezium"
