@@ -18,7 +18,7 @@ It enables listening to changes in MSSQL databases seamlessly within Ballerina p
 
 | |     Version     |
 |:---|:---------------:|
-|Ballerina Language |  **2201.12.0**   |
+|Ballerina Language |  **2201.13.0**   |
 |Debezium MSSQL Driver | **3.0.8.Final** |
 
 ## Usage
